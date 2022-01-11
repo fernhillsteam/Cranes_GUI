@@ -1,0 +1,7 @@
+0	No GPS connected
+1	No position information, GPS is connected
+2	2D position
+3	3D position
+4	DGPS/SBAS aided 3D position
+5	RTK float, 3D position
+6	RTK Fixed, 3D position
